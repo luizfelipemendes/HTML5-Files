@@ -1,0 +1,23 @@
+Estruturação de HTML5
+
+<DOCTYPE html> - tipo de documentação
+<html lang="pt-br" - idioma da página
+
+<head> - Cabeçalho
+<body> - Corpo 
+Listas não ordenadas:
+<ul> - lista
+<li> - item da lista
+
+<meta charset="utf-8"> - Códificação binária * (não tem tag de fechamento)
+
+Lista ordenadas
+<ol> - lista
+<li> - item da lista
+<ol type="1"> - tipo de ordenação númerica
+<ol type="A"> - tipo de ordenação alfabética
+
+Lista de descrição
+<dl> - lista 
+<dd> - descrição do item da lista
+
